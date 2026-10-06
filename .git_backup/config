@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "version-13"]
+	vscode-merge-base = upstream/version-13
+[remote "origin"]
+	url = git@github.com:wolealadekoba80/Manufacturer_batch_work_order.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
